@@ -1,0 +1,32 @@
+---
+title: "Hi.."
+site: distill::distill_website
+---
+
+<img src="Jayani_pic.jpg" style="border-radius:50%;width: 40%;position: relative;left: 25%;">
+
+<style>
+.socials{
+  color: var(--blue-jeans);
+  padding: 0.5em 0.75em;
+  border-color: var(--blue-jeans);
+  text-decoration: none;
+  cursor: pointer;
+  border-width: 1px 1px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+.socials:hover {
+  background-color: var(--blue-jeans);
+  color: white;
+  border-radius: 10px;
+  border-color: var(--blue-jeans);
+}
+</style>
+
+<div style="display:flex;flex-direction: row;justify-content: space-evenly;"><div><a href="https://twitter.com/LakshikaJayani" class="socials">Twitter</a></div><div><a href="https://github.com/JayaniLakshika" class="socials">Github</a></div><div><a href="www.linkedin.com/in/jayani-lakshika-9a0297162" class="socials">Linkedin</a></div><div><a href="mailto:jayanilakshika76@gmail.com" class="socials">Email</a></div><div><a href="Jayani_CV_new.pdf" class="socials">Resume</a></div></div>
+
+<br/>
+
+I’m Jayani.

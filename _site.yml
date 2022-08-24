@@ -1,0 +1,10 @@
+name: "website"
+title: "Jayani Lakshika"
+description: |
+  Jayani Lakshika
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Blog"
+      href: blog.html
+output: distill::distill_article

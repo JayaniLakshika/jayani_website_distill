@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "path": "blog.html",
+      "title": "blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-24T14:44:36+05:30"
+    },
+    {
+      "path": "index.html",
+      "title": "Hi..",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\nTwitter\r\n\r\n\r\nGithub\r\n\r\n\r\nLinkedin\r\n\r\n\r\nEmail\r\n\r\n\r\nResume\r\n\r\n\r\n\r\nI’m Jayani.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-24T14:45:24+05:30"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
